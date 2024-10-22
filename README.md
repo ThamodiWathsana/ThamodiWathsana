@@ -1,8 +1,6 @@
 <h1 align="center">Hey 👋, I'm Thamodi Wathsana</h1>
 <h3 align="center">Developer | Undergraduate Software Engineering Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thamodiwathsana&label=Profile%20views&color=0e75b6&style=flat" alt="thamodiwathsana" /> </p>
-
 - 📫 How to reach me **thamodiwathsana2227@gmail.com**
 
 - ⚡ Fun fact **I once debugged a project just by staring at it.**
