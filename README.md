@@ -1,5 +1,9 @@
 <h1 align="center">Hey 👋, I'm Thamodi Wathsana</h1>
 <h3 align="center">Developer | Undergraduate Software Engineering Student</h3>
+<p align="center">
+  <img alt="Coder GIF" height="400" width="600" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+</p>
+<br>
 
 - 📫 How to reach me **thamodiwathsana2227@gmail.com**
 
